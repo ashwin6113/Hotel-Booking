@@ -127,9 +127,3 @@ flutter analyze
 ```
 
 ---
-
-## Future Improvements & Enhancements (With More Time)
-
-1. **Persistent Backend / Database Integration**: Connect to Firebase or a REST API backend for real-time room availability sync across multiple devices.
-2. **PDF Folio & Invoice Generation**: Integration with `pdf` and `printing` packages to generate real downloadable PDF invoices and registration cards.
-3. **Advanced Room Availability Calendar**: Implement a visual timeline/Gantt chart view for room bookings over a monthly timeline.
